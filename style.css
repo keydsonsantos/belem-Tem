@@ -112,7 +112,7 @@ main {
 .homeP {
     font-family: var(--font-padrao);
     text-align: justify;
-    padding: 10px 15px;
+    padding: 10px 10px;
     font-style: italic;
     border: 2px solid black;
     border-radius: 10px;
