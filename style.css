@@ -113,9 +113,10 @@ main {
     font-family: var(--font-padrao);
     text-align: justify;
     padding: 10px 10px;
+    font-size: 0.9em;
     font-style: italic;
     border: 2px solid black;
     border-radius: 10px;
-    margin: 10px 45px;
+    margin: 10px 42px;
 } 
 
