@@ -63,6 +63,7 @@ header h2 {
 
 .nav div {
     padding: 5px 10px;
+    font-size: 0.7em;
 }
 
 .nav div:hover {
